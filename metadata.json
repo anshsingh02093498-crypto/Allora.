@@ -1,0 +1,6 @@
+{
+  "name": "ALLORA — AI Project Monitoring Platform",
+  "description": "AI-assisted project monitoring platform for enterprise leaders. Brings scattered project communications into a centralized dashboard with automatic risk detection, internal talent reallocation, project boost mode, and best team builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
